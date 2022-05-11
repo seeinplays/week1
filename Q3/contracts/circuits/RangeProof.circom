@@ -12,4 +12,14 @@ template RangeProof(n) {
     component high = GreaterEqThan(n);
 
     // [assignment] insert your code here
+
+}
+
+template LessEqThan(n) {
+    
+
+}
+
+template GreaterEqThan(n) {
+
 }
